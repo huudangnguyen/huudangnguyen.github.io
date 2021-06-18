@@ -11,13 +11,13 @@ body {
 }
 .img-avt {
     width: 100%;
-    height: 55px;
+    height: 300px;
     
 }
 .img-avt img{
     height: 280px;
     padding-top: 10px;
-    padding-left: 100px;
+    padding-left: 55px;
     
 }
 .frame-name {
